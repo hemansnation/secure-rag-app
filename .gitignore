@@ -1,1 +1,11 @@
 venv/
+data/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+logs/
+chroma_db/
+*.sqlite
+rag_audit.log
+secret.key
