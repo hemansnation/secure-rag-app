@@ -9,3 +9,4 @@ chroma_db/
 *.sqlite
 rag_audit.log
 secret.key
+.claude/
