@@ -31,3 +31,15 @@ for images
 
 - docling > pypdf
 - parse pdf into structred markdown
+
+
+Resources
+
+- https://himanshuramchandani.substack.com/
+- https://huggingface.co
+- https://claude.com/product/claude-code
+- https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+- https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+- https://huggingface.co/sentence-transformers
+- https://arxiv.org/abs/2502.08826
+- 
